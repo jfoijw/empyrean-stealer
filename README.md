@@ -25,7 +25,7 @@
     -   HQ Friends
     -   Gift codes
 -   Browser data
-    -   Cookies
+    -   Cookies 
     -   Passwords
     -   History
     -   Bookmarks
