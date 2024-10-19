@@ -17,7 +17,7 @@
 
 -   Discord token info
     -   Nitro
-    -   Badges
+    -   Badges 
     -   Billing
     -   Email
     -   Phone
